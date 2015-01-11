@@ -13,11 +13,11 @@ Hello? Can y--no?
 Are you going to open this door? Because it's fairly urgent.
 		-- Wheatley
 %
-Oh, just open the door! [to self] That's too aggressive. [loud again] Hello, 
+Oh, just open the door! That's too aggressive. Hello, 
 friend! Why not open the door?
 		-- Wheatley
 %
-[to self] Hm. Could be Spanish, could be Spanish. [loud again] Hola, amigo! 
+Hm. Could be Spanish, could be Spanish. Hola, amigo! 
 Abre la puerta! Donde esta--no. Um...
 		-- Wheatley
 %
@@ -301,7 +301,7 @@ OW.
 OW...
 		-- Wheatley
 %
-I. Am. Not. Dead! I'm not dead! [laughter]
+I. Am. Not. Dead! I'm not dead!
 		-- Wheatley
 %
 I can't move, though. That's the problem now.
@@ -316,8 +316,8 @@ Hello? Can you--can you pick me up, please?
 Sorry, are you still there? Could you--could you pick me up?
 		-- Wheatley
 %
-If you ARE there, would you mind... giving me a little bit of help? [nervous 
-laugh] Just picking me up.
+If you ARE there, would you mind... giving me a little bit of help?
+Just picking me up.
 		-- Wheatley
 %
 Look down. Where am I? Where am I?
@@ -387,7 +387,7 @@ Ummmm. Yeah, I can't do it if you're watching.
 Seriously, I'm not joking. Could you just turn around for a second?
 		-- Wheatley
 %
-I can't... I can't do it if you're watching. [nervous laugh]
+I can't... I can't do it if you're watching.
 		-- Wheatley
 %
 I can't do it if you're watching. If you.... just turn around?
@@ -396,7 +396,7 @@ I can't do it if you're watching. If you.... just turn around?
 What's that behind you? It's only a robot on a bloody stick! A different one!
 		-- Wheatley
 %
-Alright. [nervous laugh] Can't do it if you're leering at me. Creepy.
+Alright. Can't do it if you're leering at me. Creepy.
 		-- Wheatley
 %
 Okay. Listen. I can't do it with you watching. I know it seems pathetic, given 
@@ -415,7 +415,7 @@ Pick me up. Let's get out of here.
 Pick--would you pick me up?
 		-- Wheatley
 %
-[laugh] Would you pick me up?
+Would you pick me up?
 		-- Wheatley
 %
 Hey! Pick me up!
@@ -529,8 +529,8 @@ on the device and, by extension, me. So do. Do make sure to maintain a grip.
 		-- Wheatley
 %
 Also, a note: No braces on your spine, either. So don't land on that. Or your 
-head, no braces there. That could split like a melon from this height. [nervous 
-chuckle] Do definitely focus on landing with your legs.
+head, no braces there. That could split like a melon from this height.
+Do definitely focus on landing with your legs.
 		-- Wheatley
 %
 Quick question: Have you been working out? Because there's no evidence of it. 
@@ -542,9 +542,6 @@ So go ahead and jump. What's the worst that could happen? Oh. Oh wait, I just
 now thought of the worst thing. Oh! I just thought of something even worse. 
 Alright. New, better plan: no imagining of any potential outcomes whatsoever. 
 Just jump, into the abyss, there, and let's see what happens.
-		-- Wheatley
-%
-[yelling]
 		-- Wheatley
 %
 Still held! Still bein' held. That's a great job. You've applied the grip. 
@@ -613,13 +610,7 @@ there's a password. It's fine. I'll just hack it. Not a problem... umm...
 A...A...A...A...A... Umm... A.
 		-- Wheatley
 %
-[BUZZER NOISE]
-		-- Wheatley
-%
 Nope. Okay. A... A... A... A... A... C.
-		-- Wheatley
-%
-[BUZZER NOISE]
 		-- Wheatley
 %
 No. Wait, did I do B? Do you have a pen? Start writing these down.
@@ -667,7 +658,7 @@ it right down. I--AGH!
 BIRD BIRD BIRD BIRD
 		-- Wheatley
 %
-[out of breath] Okay. That's probably the bird, isn't it? That laid the eggs! 
+Okay. That's probably the bird, isn't it? That laid the eggs! 
 Livid!
 		-- Wheatley
 %
@@ -694,7 +685,7 @@ Yes, JERRY -- OR, maybe your prejudiced worksite should have accommodated a
 nanobot of my size. Thanks for the hate crime, Jer!
 		-- Wheatley
 %
-[to JERRY] See you in court, mate. [to player] Anyway, look, just hang in there 
+See you in court, mate. Anyway, look, just hang in there 
 for five more chambers.
 		-- Wheatley
 %
@@ -1085,7 +1076,7 @@ It worked!
 		-- Wheatley
 %
 If we're lucky, she won't find out all her turrets are crap until it's too 
-late. [laughs] Classic.
+late. Classic.
 		-- Wheatley
 %
 Okay! Keep your eye on the turret line, I'm gonna go and hack the door open.
@@ -1110,7 +1101,7 @@ Progress report: Haven't really made any in-roads!
 I'm still here, I'm still working, I haven't forgotten about you!
 		-- Wheatley
 %
-Oh! Good news! [electic pop] Nevermind.
+Oh! Good news! Nevermind.
 		-- Wheatley
 %
 What's happening on your side, anything?
@@ -1170,7 +1161,7 @@ able to just, you know, push it over. Have to apply some cleverness.
 There's some sort of control room up at the top. So, let's go and investigate.
 		-- Wheatley
 %
-[laugh] There's our handiwork. Shouldn't laugh, really. They do feel pain. Of a 
+There's our handiwork. Shouldn't laugh, really. They do feel pain. Of a 
 sort. All simulated. But real enough for them I suppose.
 		-- Wheatley
 %
@@ -1415,7 +1406,7 @@ you've got something more important than that. A finger, with which to press
 that button, so that she won't kill us.
 		-- Wheatley
 %
-[whispered] ...I think she's lying...
+...I think she's lying...
 		-- Wheatley
 %
 First thing I noticed about you: 'Now there's a lady who could resolve any 
@@ -1538,10 +1529,10 @@ This body is amazing, seriously!
 I can't get over how small you are!
 		-- Wheatley
 %
-But I'm huge! [laugh turning to maniacal laugh]
+But I'm huge!
 		-- Wheatley
 %
-[laugh trailing off] Actually, why do we have to leave right now?
+Actually, why do we have to leave right now?
 		-- Wheatley
 %
 Do you have any idea how good this feels?
@@ -1569,9 +1560,6 @@ See that?
 		-- Wheatley
 %
 That is a potato battery. It's a toy for children. And now she lives in it.
-		-- Wheatley
-%
-[laughs]
 		-- Wheatley
 %
 Sorry, what?
@@ -1797,7 +1785,7 @@ Alright, this is taking too long. I'll just tell you how to solve the test.
 You see that button over there? You just need to ARRRRRGH!
 		-- Wheatley
 %
-[tired breathing] Nevermind. Nevermind. Solve it yourself. You're on your own.
+Nevermind. Nevermind. Solve it yourself. You're on your own.
 		-- Wheatley
 %
 Oh! Yes. Well done.
@@ -1851,7 +1839,7 @@ Just--do the test! Just do the test.
 NNGH! It's not enough! If I'm such a moron, why can't you solve a simple test?
 		-- Wheatley
 %
-[sound of pages turning] Oh, sorry. Hope that didn't disturb you just then. It 
+Oh, sorry. Hope that didn't disturb you just then. It 
 was the sound of books. Pages being turned.
 		-- Wheatley
 %
@@ -1993,11 +1981,11 @@ Butterfingers.
 Carry on.
 		-- Wheatley
 %
-Only three more chambers until your big surprise! [maniacal laughter] Ohhh, 
+Only three more chambers until your big surprise! Ohhh, 
 that's tiring.
 		-- Wheatley
 %
-[disinterested] Ohhh, you solved it. Oh. Good. Good one... Good for you...
+Ohhh, you solved it. Oh. Good. Good one... Good for you...
 		-- Wheatley
 %
 Aw. Bless your little primate brain. I'm not actually in the room with you. Am 
@@ -2101,7 +2089,7 @@ Nooooo. No, I don't think it is. I think you're wrong.
 Pshh. Really? And do what, exactly?
 		-- Wheatley
 %
-No no no! Don't do that! Stand right there! [to self] Start the machine start 
+No no no! Don't do that! Stand right there! Start the machine start 
 the machine start the machine...
 		-- Wheatley
 %
@@ -2443,7 +2431,7 @@ Remember when I first told you how to find that little portal thing you love so
 much? Well, I thought you'd die on the way, if I'm honest. All the others did.
 		-- Wheatley
 %
-You didn't think you were the first, did you? [laughs] No no no. Fifth. No, I 
+You didn't think you were the first, did you? No no no. Fifth. No, I 
 lie: Sixth. Perhaps it's best to leave it to your imagination what happened to 
 the other five...
 		-- Wheatley
@@ -2531,12 +2519,12 @@ Ahhh... Wha- What happened?
 What happened? What, what, what have you put onto me? What is that?
 		-- Wheatley
 %
-Hold on, [click click click] Ah, the bloody bombs are stuck on. Doesn't matter 
+Hold on, Ah, the bloody bombs are stuck on. Doesn't matter 
 - I've reconfigured the shields.
 		-- Wheatley
 %
-Oh, it's a core you've put on me! Who told you to do that? Was it her? [as if 
-he's looking around] It's just making me stronger, luv! It's a fool's errand!
+Oh, it's a core you've put on me! Who told you to do that? Was it her?
+It's just making me stronger, luv! It's a fool's errand!
 		-- Wheatley
 %
 Are you trying to weigh me down? Think I'll fall out of the ceiling? Won't 
@@ -2555,12 +2543,12 @@ which I'll stop the facility from exploding while still throwing bombs at you.
 		-- Wheatley
 %
 Alright, then. Let's see... 'Vital maintenance protocols.' Wow, there's a lot 
-of them. Should have looked into this earlier. Well, let's try this: [reading 
-while typing] DO THEM. [failure buzzer]. Fair enough. Maybe it's a password.
+of them. Should have looked into this earlier. Well, let's try this: DO THEM.
+Fair enough. Maybe it's a password.
 		-- Wheatley
 %
-A, A, A, A, A, A. [NNNT!] No, okay. A, A, A, A, A, B. [NNNT!] Hold on, I've 
-done both of these. Skip ahead. A, B, C... D, G, H. [DING!]
+A, A, A, A, A, A. No, okay. A, A, A, A, A, B. Hold on, I've 
+done both of these. Skip ahead. A, B, C... D, G, H.
 		-- Wheatley
 %
 Hah! It bloody worked! I hacked it! Hacked. Properly. Properly hacked. Ha ha ha!
@@ -2629,7 +2617,7 @@ ahhhhEHHHHHH!
 You have been a thorn in my side long enough!
 		-- Wheatley
 %
-Ohhh. I see. [chuckle]
+Ohhh. I see.
 		-- Wheatley
 %
 What do you think?
@@ -2822,7 +2810,6 @@ template turret, it'll shut down the whole production line.
 		-- Wheatley
 %
 You might want to notice the moat area... rather large. Not to mention deadly. 
-[laughs]
 		-- Wheatley
 %
 Over there is where they used to keep the old neurotoxin release button. BIG 
@@ -2871,7 +2858,7 @@ Oh! It's going faster, which I was... not expecting.
 %
 Ohh. You're gonna laugh at this. You know how I said there was absolutely no 
 way to get here without going through her lair and her potentially killing us? 
-Could have gone through here. [laughs] My fault. Bit of luck for us that she 
+Could have gone through here. My fault. Bit of luck for us that she 
 wasn't switched on.
 		-- Wheatley
 %
