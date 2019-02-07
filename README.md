@@ -46,7 +46,7 @@ Just say 'Apple'. Classic. Very simple.
 
 To get a quote from GLaDOS, with a 70% chance, or the Announcer:
 ```bash
-> fortune glados 70% announcer
+> fortune 70% glados announcer
 To ensure that sufficient power remains for core testing protocols, all safety
 devices have been disabled. The Enrichment Center respects your right to have
 questions or concerns about this policy.
