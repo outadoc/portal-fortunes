@@ -3,7 +3,7 @@ UNAME := $(shell uname)
 
 ifeq ($(UNAME), Darwin)
 	# Homebrew-installed fortune path
-	fortunesdir=/usr/local/Cellar/fortune/*/share/games/fortunes
+	fortunesdir=/opt/homebrew/opt/fortune/share/games/fortunes
 else
 	fortunesdir=/usr/share/games/fortunes
 endif
